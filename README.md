@@ -5,6 +5,8 @@ by Amira Afdhal
 
 for Purwadhika JCDS2704
 
+[View the model on streamlit](https://purwadhika-clv-prediction-amira.streamlit.app/)
+
 # Business Problem
 
 #### Introduction
